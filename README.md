@@ -9,7 +9,7 @@
 ## 🌟 Overview
 
 Pose-Estimation System provides an end-to-end workflow for ingesting videos, analyzing movements, visualizing per-limb metrics, and generating tailored improvement suggestions with the help of a local LLM. 
-It is engineered with PyQt5 and [https://github.com/zhiyiYo/PyQt-Fluent-Widgets](QFluentWidgets) to achieve a clean, responsive, and consistent desktop UX.
+It is engineered with PyQt5 and QFluentWidgets to achieve a clean, responsive, and consistent desktop UX.
 
 
 ## ✨ Key Features
