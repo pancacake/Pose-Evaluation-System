@@ -1,4 +1,4 @@
-# Pose-Estimation System
+# Pose-Evaluation System
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
 [![PyQt5](https://img.shields.io/badge/PyQt5-5.15%2B-41CD52.svg)](https://pypi.org/project/PyQt5/)
@@ -8,7 +8,7 @@
 
 ## 🌟 Overview
 
-Pose-Estimation System provides an end-to-end workflow for ingesting videos, analyzing movements, visualizing per-limb metrics, and generating tailored improvement suggestions with the help of a local LLM. 
+Pose-Evaluation System provides an end-to-end workflow for ingesting videos, analyzing movements, visualizing per-limb metrics, and generating tailored improvement suggestions with the help of a local LLM. 
 It is engineered with PyQt5 and QFluentWidgets to achieve a clean, responsive, and consistent desktop UX.
 This is a project extended from College Students' innovation and Entrepreneurship Competition of China, with the help of **H. Huang**, under the supervision of [**H. Wang**](https://orcid.org/0000-0001-6927-2934).
 
