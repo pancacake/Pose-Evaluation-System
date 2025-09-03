@@ -1,0 +1,9 @@
+{
+    "MainWindow": {
+        "ActionType": "Upload Video"
+    },
+    "QFluentWidgets": {
+        "ThemeColor": "#ff009faa",
+        "ThemeMode": "Light"
+    }
+}

@@ -1,0 +1,47 @@
+# Core runtime (UI)
+PyQt5==5.15.10
+PyQtWebEngine==5.15.6
+PyQt-Fluent-Widgets>=1.5.0
+ollama
+
+# From PESUI_ENV.yml (pip section)
+annotated-types==0.7.0
+anyio==4.8.0
+certifi==2025.1.31
+click==8.1.8
+colorama==0.4.6
+contourpy==1.3.1
+cycler==0.12.1
+distro==1.9.0
+fastapi==0.109.2
+fonttools==4.56.0
+h11==0.14.0
+httpcore==1.0.7
+httpx==0.28.1
+idna==3.10
+kiwisolver==1.4.8
+matplotlib==3.8.2
+numpy==1.24.3
+openai==1.12.0
+opencv-python==4.8.1.78
+packaging==24.2
+pillow==11.1.0
+pydantic==2.10.6
+pydantic-core==2.27.2
+pyparsing==3.2.1
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.0
+python-multipart==0.0.9
+six==1.17.0
+sniffio==1.3.1
+starlette==0.36.3
+tqdm==4.67.1
+typing-extensions==4.12.2
+uvicorn==0.27.1
+
+# Optional: local LLM stack (only if你需要 qwen2.5 本地推理)
+# langchain
+# transformers
+# torch
+# modelscope
+

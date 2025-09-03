@@ -1,0 +1,6 @@
+TOTAL:you are good;
+LA:not bad;
+RA:not bad either;
+MP:not bad eeiiitther;
+LL:pretty good;
+RL:very good;
